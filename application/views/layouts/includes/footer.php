@@ -6,7 +6,7 @@
 	
 	<div class="row footer">
 		<div class="container">
-			<p>Gaming Store &copy; 2016, All Rights Reserved</p>
+			<p>Gaming Store &copy; 2015, All Rights Reserved</p>
 		</div>
 	</div>
 
